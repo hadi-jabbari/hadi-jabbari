@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hadi-jabbari
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning kubernates
+- 💞️ I’m looking to collaborate on open source project
